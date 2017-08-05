@@ -1,0 +1,9 @@
+D:\private\vs2010Project\tesseract-ocr\web\webControlTest\bin\Debug\webControlTest.dll
+D:\private\vs2010Project\tesseract-ocr\web\webControlTest\bin\Debug\webControlTest.pdb
+D:\private\vs2010Project\tesseract-ocr\web\webControlTest\obj\Debug\webControlTest.dll
+D:\private\vs2010Project\tesseract-ocr\web\webControlTest\obj\Debug\webControlTest.pdb
+C:\Users\Administrator\Desktop\封装服务器控件\webControlTest\bin\Debug\webControlTest.dll
+C:\Users\Administrator\Desktop\封装服务器控件\webControlTest\bin\Debug\webControlTest.pdb
+C:\Users\Administrator\Desktop\封装服务器控件\webControlTest\obj\Debug\webControlTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\封装服务器控件\webControlTest\obj\Debug\webControlTest.dll
+C:\Users\Administrator\Desktop\封装服务器控件\webControlTest\obj\Debug\webControlTest.pdb
